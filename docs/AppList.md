@@ -4,7 +4,7 @@ List of all apps included in this project with info related to it.
 
 |**Arm32:**          |**Arm64:**|**Amd64:**|**Total:**|
 |:-------------------|:--------:|:--------:|:--------:|
-| 106 apps | 230 apps | 233 apps | 236 apps |
+| 106 apps | 231 apps | 234 apps | 237 apps |
 
 ---
 
@@ -22,6 +22,7 @@ List of all apps included in this project with info related to it.
 |[AriaNG](https://github.com/hurlenko/aria2-ariang-docker)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Container| [![](../build/images/blue_doc_icon.png)](https://github.com/hurlenko/aria2-ariang-docker) |  |  |  |
 |[Authelia](https://www.authelia.com/)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Container| [![](../build/images/blue_doc_icon.png)](https://www.authelia.com/docs/configuration/) |  |  |  |
 |[Authentik](https://goauthentik.io/)|:x:|:heavy_check_mark:|:heavy_check_mark:|Stack| [![](../build/images/blue_doc_icon.png)](https://goauthentik.io/docs/) |  | [![](../build/images/script_icon.png)](../tools/install_authentik.sh) |  |
+|[Baikal](https://sabre.io/img/baikal.png)|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|Container| [![](../build/images/blue_doc_icon.png)](https://sabre.io/baikal/) |  |  |  |
 |[Bazarr](https://www.bazarr.media/)|:x:|:heavy_check_mark:|:heavy_check_mark:|Container| [![](../build/images/blue_doc_icon.png)](https://wiki.bazarr.media/Getting-Started/Installation/Docker/docker/) |  |  |  |
 |[Beets](https://beets.io/)|:x:|:heavy_check_mark:|:heavy_check_mark:|Container| [![](../build/images/blue_doc_icon.png)](https://docs.linuxserver.io/images/docker-beets) |  |  |  |
 |[Bind9](https://hub.docker.com/r/ubuntu/bind9)|:x:|:heavy_check_mark:|:heavy_check_mark:|Container| [![](../build/images/blue_doc_icon.png)](https://hub.docker.com/r/ubuntu/bind9) |  | [![](../build/images/script_icon.png)](../tools/install_bind9.sh) |  |
