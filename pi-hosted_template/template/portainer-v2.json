@@ -277,6 +277,22 @@
 		},
 		{
 			"categories": [
+				"CalDAV + CardDAV"
+			],
+			"description": "Baïkal is a lightweight CalDAV+CardDAV server. It offers an extensive web interface with easy management of users, address books and calendars.",
+			"logo": "https://raw.githubusercontent.com/sabre-io/sabre.io/master/source/img/baikal.png",
+			"name": "Baikal",
+			"note": "<b>Template created by Pi-Hosted Series</b><br><b>Check our Github page: <a href=\"https://github.com/pi-hosted/pi-hosted\" target=\"_blank\">https://github.com/pi-hosted/pi-hosted</a></b><br><br><b>Official Webpage: </b><a href=\"https://www.bookstackapp.com/\" target=\"_blank\">https://www.bookstackapp.com/</a><br><b>Official Docker Documentation: </b><a href=\"https://www.bookstackapp.com/docs/admin/installation/#docker\" target=\"_blank\">https://www.bookstackapp.com/docs/admin/installation/#docker</a><br><br><br>Default login is admin@admin.com with a password of password. The database created is called bookstackapp and the database user is called bookstack",
+			"platform": "linux",
+			"repository": {
+				"stackfile": "stack/baikal.yml",
+				"url": "https://github.com/sabre-io/Baikal"
+			},
+			"title": "Baïkal (NGINX)",
+			"type": 3
+		},
+		{
+			"categories": [
 				"Wiki"
 			],
 			"description": "Bookstack is a free and open source Wiki designed for creating beautiful documentation. Featuring a simple, but powerful WYSIWYG editor it allows for teams to create detailed and useful documentation with ease.",
